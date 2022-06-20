@@ -1,0 +1,21 @@
+body{
+    background: rgba(0,0,0,0.5);
+}
+.panel{
+    margin-top:100px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
+.btn-default{
+    background: rgba(0, 0, 0, 0.8);
+    color:#FFF;
+}
+.title{
+    margin-right:10px;
+}
+.questionsNumber{
+    background: #f4f4f4;
+    margin-right:20px 0px 10px 0px;
+    border : 1px dotted #ccc;
+    padding: 10px;
+
+}
